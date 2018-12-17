@@ -1,0 +1,80 @@
+.navbar .nav-link{
+  font-size: 16px;
+  text-transform: uppercase;
+  padding-left: 2em !important;
+  padding-right: 2em !important;
+  color:grey;}
+  .navbar
+{
+  border-bottom:3px solid #1c5362;
+  opacity:0.8;
+}
+.navbar li:hover
+{
+  background-color:#8B0000;
+  border-radius:2em;
+}
+
+
+.navbar{
+  background-color:#F3E5F5;
+}
+
+
+#home-heading {
+  min-height: 200px;
+  text-align: center;}
+
+#coli
+{
+  background-color:white;
+  opacity:0.8;
+}
+
+ 
+}
+#dark
+{
+  background-color:#232e33;
+  opacity:0.8;
+}
+.cards
+{
+  min-height:500px;
+  margin-top:70px;
+   margin-bottom:70px;
+    margin-left:70px;
+     margin-right:70px;
+     border-radius:2em;
+}
+.navbar .btn
+{
+  background-color:#F3E5F5;
+  border:0px;
+  position:relative;
+}
+.navbar .btn:hover
+{
+  background-color:#F3E5F5;
+  border:0px;
+  position:relative;
+}
+
+.navbar .btn:active
+{
+  background-color:#F3E5F5;
+  border:0px;
+}
+.coll
+{
+  background-color:#8B0000;
+}
+.acc
+{
+  background-color:#8B0000;
+  color:white;
+}
+#map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
